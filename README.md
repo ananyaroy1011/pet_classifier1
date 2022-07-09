@@ -2,8 +2,8 @@
 
 Repository used to create deeplearning based web APP able to classify cat, rabbits and dogs.
 
-Repository with the Notebook used to create the model: https://github.com/eloyperdomo/pet_Classifier_model
+Repository with the Notebook used to create the model: https://github.com/ananya1011/fastai
 
 
-Link to the app: https://eloy-petclassifier.herokuapp.com/
+Link to the app: https://petclassifi.herokuapp.com/
 
